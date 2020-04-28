@@ -7,6 +7,7 @@ This started as lab work for Advanced Security Testing (CYBR627) at Bellevue Uni
 
 There are two versions of the labs found here: https://seedsecuritylabs.org/labs.html
 http://www.cis.syr.edu/~wedu/seed/Labs_16.04/
+
 http://www.cis.syr.edu/~wedu/seed/labs12_04.html
 
 The six types of labs include: 
