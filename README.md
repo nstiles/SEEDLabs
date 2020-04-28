@@ -11,11 +11,11 @@ http://www.cis.syr.edu/~wedu/seed/Labs_16.04/
 http://www.cis.syr.edu/~wedu/seed/labs12_04.html
 
 The six types of labs include: 
-Software
-Network
-Web
-System
-Cryptography
-Mobile 
+1. Software
+2. Network
+3. Web
+4. System
+5. Cryptography
+6. Mobile 
 
 
