@@ -1,4 +1,4 @@
 #Mobile 
 
-1. Android repackaging
-2. Android Device Rooting
+- [ ] Android repackaging
+- [ ] Android Device Rooting
